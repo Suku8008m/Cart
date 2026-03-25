@@ -2,48 +2,57 @@
 
 export const imageAssets = {
   banners: {
-    banner_sale: "https://loremflickr.com/1500/350/ecommerce?lock=90",
-    banner_electronics: "https://loremflickr.com/1500/350/laptop?lock=91",
-    banner_home: "https://loremflickr.com/1500/350/livingroom?lock=92"
+    banner_sale:
+      "https://images.pexels.com/photos/374777/pexels-photo-374777.jpeg",
+    banner_electronics:
+      "https://images.pexels.com/photos/3394663/pexels-photo-3394663.jpeg",
+    banner_home:
+      "https://images.pexels.com/photos/164853/headphones-headset-head-phones-music-164853.jpeg",
   },
   products: {
-    headphones: "https://loremflickr.com/500/500/headphones?lock=1",
-    mouse: "https://loremflickr.com/500/500/computermouse?lock=2",
-    tv: "https://loremflickr.com/500/500/television?lock=3",
-    speaker: "https://loremflickr.com/500/500/speaker?lock=4",
-    keyboard: "https://loremflickr.com/500/500/keyboard?lock=5",
-    
-    tshirt: "https://loremflickr.com/500/500/tshirt?lock=6",
-    shoes: "https://loremflickr.com/500/500/sneakers?lock=7",
-    jacket: "https://loremflickr.com/500/500/jacket?lock=8",
-    jeans: "https://loremflickr.com/500/500/jeans?lock=9",
-    socks: "https://loremflickr.com/500/500/socks?lock=10",
-    
-    pan: "https://loremflickr.com/500/500/fryingpan?lock=11",
-    towels: "https://loremflickr.com/500/500/towels?lock=12",
-    bottle: "https://loremflickr.com/500/500/waterbottle?lock=13",
-    blanket: "https://loremflickr.com/500/500/blanket?lock=14",
-    mugs: "https://loremflickr.com/500/500/mug?lock=15",
-    
+    headphones:
+      "https://images.pexels.com/photos/3394663/pexels-photo-3394663.jpeg",
+    mouse: "https://images.pexels.com/photos/209723/pexels-photo-209723.jpeg",
+    tv: "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg",
+    speaker:
+      "https://images.pexels.com/photos/7045553/pexels-photo-7045553.jpeg",
+    keyboard:
+      "https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg",
+    tshirt:
+      "https://images.pexels.com/photos/1002641/pexels-photo-1002641.jpeg",
+    shoes: "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg",
+    jacket: "https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg",
+    jeans: "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg",
+    socks: "https://images.pexels.com/photos/19090/pexels-photo.jpg",
+    pan: "https://images.pexels.com/photos/2291584/pexels-photo-2291584.jpeg",
+    towels: "https://images.pexels.com/photos/221143/pexels-photo-221143.jpeg",
+    bottle: "https://images.pexels.com/photos/590516/pexels-photo-590516.jpeg",
+    blanket: "https://images.pexels.com/photos/274973/pexels-photo-274973.jpeg",
+    mugs: "https://images.pexels.com/photos/302897/pexels-photo-302897.jpeg",
     // Books
-    fiction: "https://loremflickr.com/500/500/novel?lock=16",
-    scifi: "https://loremflickr.com/500/500/scifi?lock=17",
-    cookbook: "https://loremflickr.com/500/500/cookbook?lock=18",
-    history: "https://loremflickr.com/500/500/history?lock=19",
-    childrenbook: "https://loremflickr.com/500/500/toys?lock=20",
-
+    fiction: "https://images.pexels.com/photos/46274/pexels-photo-46274.jpeg",
+    scifi: "https://images.pexels.com/photos/1005324/pexels-photo-1005324.jpeg",
+    cookbook: "https://images.pexels.com/photos/40503/pexels-photo-40503.jpeg",
+    history: "https://images.pexels.com/photos/46274/pexels-photo-46274.jpeg",
+    childrenbook:
+      "https://images.pexels.com/photos/590493/pexels-photo-590493.jpeg",
     // Beauty & Personal Care
-    moisturizer: "https://loremflickr.com/500/500/skincare?lock=21",
-    perfume: "https://loremflickr.com/500/500/perfume?lock=22",
-    shavingkit: "https://loremflickr.com/500/500/shaving?lock=23",
-    diffuser: "https://loremflickr.com/500/500/essentialoil?lock=24",
-    soap: "https://loremflickr.com/500/500/soap?lock=25",
-
+    moisturizer:
+      "https://images.pexels.com/photos/4502143/pexels-photo-4502143.jpeg",
+    perfume: "https://images.pexels.com/photos/220416/pexels-photo-220416.jpeg",
+    shavingkit:
+      "https://images.pexels.com/photos/405772/pexels-photo-405772.jpeg",
+    diffuser:
+      "https://images.pexels.com/photos/373743/pexels-photo-373743.jpeg",
+    soap: "https://images.pexels.com/photos/775031/pexels-photo-775031.jpeg",
     // Sports & Outdoors
-    yogamat: "https://loremflickr.com/500/500/yoga?lock=26",
-    dumbbell: "https://loremflickr.com/500/500/dumbbell?lock=27",
-    racket: "https://loremflickr.com/500/500/tennisracket?lock=28",
-    tent: "https://loremflickr.com/500/500/tent?lock=29",
-    backpack: "https://loremflickr.com/500/500/backpack?lock=30"
-  }
+    yogamat:
+      "https://images.pexels.com/photos/4056723/pexels-photo-4056723.jpeg",
+    dumbbell:
+      "https://images.pexels.com/photos/1954523/pexels-photo-1954523.jpeg",
+    racket: "https://images.pexels.com/photos/114296/pexels-photo-114296.jpeg",
+    tent: "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg",
+    backpack:
+      "https://images.pexels.com/photos/414171/pexels-photo-414171.jpeg",
+  },
 };
