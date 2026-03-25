@@ -3,9 +3,9 @@ export const imageAssets = {
     banner_sale:
       "https://images.pexels.com/photos/374777/pexels-photo-374777.jpeg?auto=compress&cs=tinysrgb&w=1200&fm=webp",
     banner_electronics:
-      "https://images.pexels.com/photos/3394663/pexels-photo-3394663.jpeg?auto=compress&cs=tinysrgb&w=1200&fm=webp",
+      "https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=1200&fm=webp",
     banner_home:
-      "https://images.pexels.com/photos/164853/headphones-headset-head-phones-music-164853.jpeg?auto=compress&cs=tinysrgb&w=1200&fm=webp",
+      "https://images.pexels.com/photos/5632397/pexels-photo-5632397.jpeg?auto=compress&cs=tinysrgb&w=1200&fm=webp",
   },
 
   products: {
